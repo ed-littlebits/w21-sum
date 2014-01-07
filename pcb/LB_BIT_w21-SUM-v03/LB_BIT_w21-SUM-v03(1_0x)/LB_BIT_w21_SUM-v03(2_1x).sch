@@ -8266,8 +8266,10 @@ Device conducts in avalanche mode after reaching a part dependent voltage thresh
 <sheets>
 <sheet>
 <plain>
-<text x="239.776" y="13.97" size="2.54" layer="91">1</text>
-<text x="43.18" y="106.68" size="1.778" layer="91">We are the 1%</text>
+<text x="239.776" y="13.97" size="2.54" layer="91">2</text>
+<text x="55.88" y="63.5" size="1.778" layer="91">All resistor are 1% or better</text>
+<text x="160.02" y="17.78" size="1.778" layer="91">EKB</text>
+<text x="198.12" y="17.78" size="1.778" layer="91">1/7/2014</text>
 </plain>
 <instances>
 <instance part="FRAME1" gate="G$1" x="0" y="0"/>

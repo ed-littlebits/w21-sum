@@ -1,0 +1,655 @@
+Circuit: C:\Users\Ed Bear\Dropbox\Documents\GitHub\w21-sum\sim\w21Sum01.CKT
+Date: Tue Jan 07 11:38:04  2014
+
+
+*DC Monte Carlo run 1 of 50 (m1)
+c2 dev=20% worst :  100.n      ->  80.0n
+c3 dev=20% worst :  100.n      ->  120.n
+c4 dev=20% worst :  100.n      ->  120.n
+r6 dev=1% worst  :  51.0k      ->  51.5k
+r8 dev=1% worst  :  51.0k      ->  50.4k
+r23 dev=1% worst :  51.0k      ->  51.5k
+r1 dev=1% worst  :  51.0k      ->  50.4k
+r2 dev=1% worst  :  51.0k      ->  51.5k
+r3 dev=1% worst  :  51.0k      ->  51.5k
+r4 dev=1% worst  :  150.k      ->  148.k
+r5 dev=1% worst  :  51.0k      ->  51.5k
+
+*DC Monte Carlo run 2 of 50 (m2)
+c2 dev=20% worst :  100.n      ->  120.n
+c3 dev=20% worst :  100.n      ->  120.n
+c4 dev=20% worst :  100.n      ->  120.n
+r6 dev=1% worst  :  51.0k      ->  50.4k
+r8 dev=1% worst  :  51.0k      ->  50.4k
+r23 dev=1% worst :  51.0k      ->  51.5k
+r1 dev=1% worst  :  51.0k      ->  51.5k
+r2 dev=1% worst  :  51.0k      ->  51.5k
+r3 dev=1% worst  :  51.0k      ->  50.4k
+r4 dev=1% worst  :  150.k      ->  148.k
+r5 dev=1% worst  :  51.0k      ->  51.5k
+
+*DC Monte Carlo run 3 of 50 (m3)
+c2 dev=20% worst :  100.n      ->  80.0n
+c3 dev=20% worst :  100.n      ->  120.n
+c4 dev=20% worst :  100.n      ->  80.0n
+r6 dev=1% worst  :  51.0k      ->  50.4k
+r8 dev=1% worst  :  51.0k      ->  50.4k
+r23 dev=1% worst :  51.0k      ->  51.5k
+r1 dev=1% worst  :  51.0k      ->  51.5k
+r2 dev=1% worst  :  51.0k      ->  50.4k
+r3 dev=1% worst  :  51.0k      ->  51.5k
+r4 dev=1% worst  :  150.k      ->  151.k
+r5 dev=1% worst  :  51.0k      ->  51.5k
+
+*DC Monte Carlo run 4 of 50 (m4)
+c2 dev=20% worst :  100.n      ->  80.0n
+c3 dev=20% worst :  100.n      ->  80.0n
+c4 dev=20% worst :  100.n      ->  80.0n
+r6 dev=1% worst  :  51.0k      ->  51.5k
+r8 dev=1% worst  :  51.0k      ->  51.5k
+r23 dev=1% worst :  51.0k      ->  51.5k
+r1 dev=1% worst  :  51.0k      ->  50.4k
+r2 dev=1% worst  :  51.0k      ->  51.5k
+r3 dev=1% worst  :  51.0k      ->  50.4k
+r4 dev=1% worst  :  150.k      ->  148.k
+r5 dev=1% worst  :  51.0k      ->  50.4k
+
+*DC Monte Carlo run 5 of 50 (m5)
+c2 dev=20% worst :  100.n      ->  120.n
+c3 dev=20% worst :  100.n      ->  80.0n
+c4 dev=20% worst :  100.n      ->  120.n
+r6 dev=1% worst  :  51.0k      ->  50.4k
+r8 dev=1% worst  :  51.0k      ->  51.5k
+r23 dev=1% worst :  51.0k      ->  50.4k
+r1 dev=1% worst  :  51.0k      ->  51.5k
+r2 dev=1% worst  :  51.0k      ->  51.5k
+r3 dev=1% worst  :  51.0k      ->  50.4k
+r4 dev=1% worst  :  150.k      ->  148.k
+r5 dev=1% worst  :  51.0k      ->  51.5k
+
+*DC Monte Carlo run 6 of 50 (m6)
+c2 dev=20% worst :  100.n      ->  80.0n
+c3 dev=20% worst :  100.n      ->  80.0n
+c4 dev=20% worst :  100.n      ->  80.0n
+r6 dev=1% worst  :  51.0k      ->  51.5k
+r8 dev=1% worst  :  51.0k      ->  50.4k
+r23 dev=1% worst :  51.0k      ->  50.4k
+r1 dev=1% worst  :  51.0k      ->  51.5k
+r2 dev=1% worst  :  51.0k      ->  51.5k
+r3 dev=1% worst  :  51.0k      ->  51.5k
+r4 dev=1% worst  :  150.k      ->  151.k
+r5 dev=1% worst  :  51.0k      ->  51.5k
+
+*DC Monte Carlo run 7 of 50 (m7)
+c2 dev=20% worst :  100.n      ->  120.n
+c3 dev=20% worst :  100.n      ->  120.n
+c4 dev=20% worst :  100.n      ->  80.0n
+r6 dev=1% worst  :  51.0k      ->  51.5k
+r8 dev=1% worst  :  51.0k      ->  51.5k
+r23 dev=1% worst :  51.0k      ->  51.5k
+r1 dev=1% worst  :  51.0k      ->  51.5k
+r2 dev=1% worst  :  51.0k      ->  50.4k
+r3 dev=1% worst  :  51.0k      ->  50.4k
+r4 dev=1% worst  :  150.k      ->  151.k
+r5 dev=1% worst  :  51.0k      ->  51.5k
+
+*DC Monte Carlo run 8 of 50 (m8)
+c2 dev=20% worst :  100.n      ->  120.n
+c3 dev=20% worst :  100.n      ->  120.n
+c4 dev=20% worst :  100.n      ->  80.0n
+r6 dev=1% worst  :  51.0k      ->  50.4k
+r8 dev=1% worst  :  51.0k      ->  51.5k
+r23 dev=1% worst :  51.0k      ->  51.5k
+r1 dev=1% worst  :  51.0k      ->  51.5k
+r2 dev=1% worst  :  51.0k      ->  50.4k
+r3 dev=1% worst  :  51.0k      ->  50.4k
+r4 dev=1% worst  :  150.k      ->  151.k
+r5 dev=1% worst  :  51.0k      ->  50.4k
+
+*DC Monte Carlo run 9 of 50 (m9)
+c2 dev=20% worst :  100.n      ->  80.0n
+c3 dev=20% worst :  100.n      ->  120.n
+c4 dev=20% worst :  100.n      ->  120.n
+r6 dev=1% worst  :  51.0k      ->  50.4k
+r8 dev=1% worst  :  51.0k      ->  50.4k
+r23 dev=1% worst :  51.0k      ->  50.4k
+r1 dev=1% worst  :  51.0k      ->  51.5k
+r2 dev=1% worst  :  51.0k      ->  51.5k
+r3 dev=1% worst  :  51.0k      ->  50.4k
+r4 dev=1% worst  :  150.k      ->  148.k
+r5 dev=1% worst  :  51.0k      ->  50.4k
+
+*DC Monte Carlo run 10 of 50 (m10)
+c2 dev=20% worst :  100.n      ->  80.0n
+c3 dev=20% worst :  100.n      ->  120.n
+c4 dev=20% worst :  100.n      ->  80.0n
+r6 dev=1% worst  :  51.0k      ->  51.5k
+r8 dev=1% worst  :  51.0k      ->  51.5k
+r23 dev=1% worst :  51.0k      ->  50.4k
+r1 dev=1% worst  :  51.0k      ->  51.5k
+r2 dev=1% worst  :  51.0k      ->  51.5k
+r3 dev=1% worst  :  51.0k      ->  51.5k
+r4 dev=1% worst  :  150.k      ->  148.k
+r5 dev=1% worst  :  51.0k      ->  51.5k
+
+*DC Monte Carlo run 11 of 50 (m11)
+c2 dev=20% worst :  100.n      ->  120.n
+c3 dev=20% worst :  100.n      ->  80.0n
+c4 dev=20% worst :  100.n      ->  120.n
+r6 dev=1% worst  :  51.0k      ->  50.4k
+r8 dev=1% worst  :  51.0k      ->  50.4k
+r23 dev=1% worst :  51.0k      ->  51.5k
+r1 dev=1% worst  :  51.0k      ->  51.5k
+r2 dev=1% worst  :  51.0k      ->  50.4k
+r3 dev=1% worst  :  51.0k      ->  50.4k
+r4 dev=1% worst  :  150.k      ->  151.k
+r5 dev=1% worst  :  51.0k      ->  51.5k
+
+*DC Monte Carlo run 12 of 50 (m12)
+c2 dev=20% worst :  100.n      ->  80.0n
+c3 dev=20% worst :  100.n      ->  120.n
+c4 dev=20% worst :  100.n      ->  120.n
+r6 dev=1% worst  :  51.0k      ->  50.4k
+r8 dev=1% worst  :  51.0k      ->  50.4k
+r23 dev=1% worst :  51.0k      ->  50.4k
+r1 dev=1% worst  :  51.0k      ->  50.4k
+r2 dev=1% worst  :  51.0k      ->  50.4k
+r3 dev=1% worst  :  51.0k      ->  51.5k
+r4 dev=1% worst  :  150.k      ->  151.k
+r5 dev=1% worst  :  51.0k      ->  50.4k
+
+*DC Monte Carlo run 13 of 50 (m13)
+c2 dev=20% worst :  100.n      ->  80.0n
+c3 dev=20% worst :  100.n      ->  120.n
+c4 dev=20% worst :  100.n      ->  80.0n
+r6 dev=1% worst  :  51.0k      ->  50.4k
+r8 dev=1% worst  :  51.0k      ->  50.4k
+r23 dev=1% worst :  51.0k      ->  50.4k
+r1 dev=1% worst  :  51.0k      ->  50.4k
+r2 dev=1% worst  :  51.0k      ->  50.4k
+r3 dev=1% worst  :  51.0k      ->  50.4k
+r4 dev=1% worst  :  150.k      ->  148.k
+r5 dev=1% worst  :  51.0k      ->  50.4k
+
+*DC Monte Carlo run 14 of 50 (m14)
+c2 dev=20% worst :  100.n      ->  80.0n
+c3 dev=20% worst :  100.n      ->  80.0n
+c4 dev=20% worst :  100.n      ->  80.0n
+r6 dev=1% worst  :  51.0k      ->  51.5k
+r8 dev=1% worst  :  51.0k      ->  50.4k
+r23 dev=1% worst :  51.0k      ->  51.5k
+r1 dev=1% worst  :  51.0k      ->  51.5k
+r2 dev=1% worst  :  51.0k      ->  50.4k
+r3 dev=1% worst  :  51.0k      ->  50.4k
+r4 dev=1% worst  :  150.k      ->  151.k
+r5 dev=1% worst  :  51.0k      ->  50.4k
+
+*DC Monte Carlo run 15 of 50 (m15)
+c2 dev=20% worst :  100.n      ->  120.n
+c3 dev=20% worst :  100.n      ->  80.0n
+c4 dev=20% worst :  100.n      ->  120.n
+r6 dev=1% worst  :  51.0k      ->  51.5k
+r8 dev=1% worst  :  51.0k      ->  51.5k
+r23 dev=1% worst :  51.0k      ->  51.5k
+r1 dev=1% worst  :  51.0k      ->  50.4k
+r2 dev=1% worst  :  51.0k      ->  50.4k
+r3 dev=1% worst  :  51.0k      ->  50.4k
+r4 dev=1% worst  :  150.k      ->  151.k
+r5 dev=1% worst  :  51.0k      ->  51.5k
+
+*DC Monte Carlo run 16 of 50 (m16)
+c2 dev=20% worst :  100.n      ->  80.0n
+c3 dev=20% worst :  100.n      ->  120.n
+c4 dev=20% worst :  100.n      ->  80.0n
+r6 dev=1% worst  :  51.0k      ->  50.4k
+r8 dev=1% worst  :  51.0k      ->  50.4k
+r23 dev=1% worst :  51.0k      ->  51.5k
+r1 dev=1% worst  :  51.0k      ->  51.5k
+r2 dev=1% worst  :  51.0k      ->  50.4k
+r3 dev=1% worst  :  51.0k      ->  51.5k
+r4 dev=1% worst  :  150.k      ->  148.k
+r5 dev=1% worst  :  51.0k      ->  50.4k
+
+*DC Monte Carlo run 17 of 50 (m17)
+c2 dev=20% worst :  100.n      ->  120.n
+c3 dev=20% worst :  100.n      ->  80.0n
+c4 dev=20% worst :  100.n      ->  120.n
+r6 dev=1% worst  :  51.0k      ->  51.5k
+r8 dev=1% worst  :  51.0k      ->  51.5k
+r23 dev=1% worst :  51.0k      ->  50.4k
+r1 dev=1% worst  :  51.0k      ->  50.4k
+r2 dev=1% worst  :  51.0k      ->  51.5k
+r3 dev=1% worst  :  51.0k      ->  50.4k
+r4 dev=1% worst  :  150.k      ->  151.k
+r5 dev=1% worst  :  51.0k      ->  51.5k
+
+*DC Monte Carlo run 18 of 50 (m18)
+c2 dev=20% worst :  100.n      ->  80.0n
+c3 dev=20% worst :  100.n      ->  120.n
+c4 dev=20% worst :  100.n      ->  120.n
+r6 dev=1% worst  :  51.0k      ->  51.5k
+r8 dev=1% worst  :  51.0k      ->  51.5k
+r23 dev=1% worst :  51.0k      ->  51.5k
+r1 dev=1% worst  :  51.0k      ->  51.5k
+r2 dev=1% worst  :  51.0k      ->  50.4k
+r3 dev=1% worst  :  51.0k      ->  51.5k
+r4 dev=1% worst  :  150.k      ->  148.k
+r5 dev=1% worst  :  51.0k      ->  50.4k
+
+*DC Monte Carlo run 19 of 50 (m19)
+c2 dev=20% worst :  100.n      ->  120.n
+c3 dev=20% worst :  100.n      ->  80.0n
+c4 dev=20% worst :  100.n      ->  120.n
+r6 dev=1% worst  :  51.0k      ->  50.4k
+r8 dev=1% worst  :  51.0k      ->  51.5k
+r23 dev=1% worst :  51.0k      ->  51.5k
+r1 dev=1% worst  :  51.0k      ->  51.5k
+r2 dev=1% worst  :  51.0k      ->  50.4k
+r3 dev=1% worst  :  51.0k      ->  51.5k
+r4 dev=1% worst  :  150.k      ->  148.k
+r5 dev=1% worst  :  51.0k      ->  51.5k
+
+*DC Monte Carlo run 20 of 50 (m20)
+c2 dev=20% worst :  100.n      ->  120.n
+c3 dev=20% worst :  100.n      ->  120.n
+c4 dev=20% worst :  100.n      ->  80.0n
+r6 dev=1% worst  :  51.0k      ->  51.5k
+r8 dev=1% worst  :  51.0k      ->  51.5k
+r23 dev=1% worst :  51.0k      ->  51.5k
+r1 dev=1% worst  :  51.0k      ->  51.5k
+r2 dev=1% worst  :  51.0k      ->  50.4k
+r3 dev=1% worst  :  51.0k      ->  51.5k
+r4 dev=1% worst  :  150.k      ->  148.k
+r5 dev=1% worst  :  51.0k      ->  51.5k
+
+*DC Monte Carlo run 21 of 50 (m21)
+c2 dev=20% worst :  100.n      ->  80.0n
+c3 dev=20% worst :  100.n      ->  80.0n
+c4 dev=20% worst :  100.n      ->  80.0n
+r6 dev=1% worst  :  51.0k      ->  50.4k
+r8 dev=1% worst  :  51.0k      ->  51.5k
+r23 dev=1% worst :  51.0k      ->  51.5k
+r1 dev=1% worst  :  51.0k      ->  50.4k
+r2 dev=1% worst  :  51.0k      ->  50.4k
+r3 dev=1% worst  :  51.0k      ->  50.4k
+r4 dev=1% worst  :  150.k      ->  151.k
+r5 dev=1% worst  :  51.0k      ->  51.5k
+
+*DC Monte Carlo run 22 of 50 (m22)
+c2 dev=20% worst :  100.n      ->  120.n
+c3 dev=20% worst :  100.n      ->  120.n
+c4 dev=20% worst :  100.n      ->  80.0n
+r6 dev=1% worst  :  51.0k      ->  51.5k
+r8 dev=1% worst  :  51.0k      ->  50.4k
+r23 dev=1% worst :  51.0k      ->  51.5k
+r1 dev=1% worst  :  51.0k      ->  50.4k
+r2 dev=1% worst  :  51.0k      ->  50.4k
+r3 dev=1% worst  :  51.0k      ->  51.5k
+r4 dev=1% worst  :  150.k      ->  148.k
+r5 dev=1% worst  :  51.0k      ->  51.5k
+
+*DC Monte Carlo run 23 of 50 (m23)
+c2 dev=20% worst :  100.n      ->  120.n
+c3 dev=20% worst :  100.n      ->  120.n
+c4 dev=20% worst :  100.n      ->  120.n
+r6 dev=1% worst  :  51.0k      ->  50.4k
+r8 dev=1% worst  :  51.0k      ->  50.4k
+r23 dev=1% worst :  51.0k      ->  50.4k
+r1 dev=1% worst  :  51.0k      ->  51.5k
+r2 dev=1% worst  :  51.0k      ->  51.5k
+r3 dev=1% worst  :  51.0k      ->  51.5k
+r4 dev=1% worst  :  150.k      ->  148.k
+r5 dev=1% worst  :  51.0k      ->  50.4k
+
+*DC Monte Carlo run 24 of 50 (m24)
+c2 dev=20% worst :  100.n      ->  120.n
+c3 dev=20% worst :  100.n      ->  120.n
+c4 dev=20% worst :  100.n      ->  80.0n
+r6 dev=1% worst  :  51.0k      ->  51.5k
+r8 dev=1% worst  :  51.0k      ->  50.4k
+r23 dev=1% worst :  51.0k      ->  50.4k
+r1 dev=1% worst  :  51.0k      ->  50.4k
+r2 dev=1% worst  :  51.0k      ->  50.4k
+r3 dev=1% worst  :  51.0k      ->  50.4k
+r4 dev=1% worst  :  150.k      ->  151.k
+r5 dev=1% worst  :  51.0k      ->  50.4k
+
+*DC Monte Carlo run 25 of 50 (m25)
+c2 dev=20% worst :  100.n      ->  80.0n
+c3 dev=20% worst :  100.n      ->  120.n
+c4 dev=20% worst :  100.n      ->  80.0n
+r6 dev=1% worst  :  51.0k      ->  51.5k
+r8 dev=1% worst  :  51.0k      ->  51.5k
+r23 dev=1% worst :  51.0k      ->  50.4k
+r1 dev=1% worst  :  51.0k      ->  50.4k
+r2 dev=1% worst  :  51.0k      ->  51.5k
+r3 dev=1% worst  :  51.0k      ->  51.5k
+r4 dev=1% worst  :  150.k      ->  151.k
+r5 dev=1% worst  :  51.0k      ->  50.4k
+
+*DC Monte Carlo run 26 of 50 (m26)
+c2 dev=20% worst :  100.n      ->  80.0n
+c3 dev=20% worst :  100.n      ->  80.0n
+c4 dev=20% worst :  100.n      ->  120.n
+r6 dev=1% worst  :  51.0k      ->  50.4k
+r8 dev=1% worst  :  51.0k      ->  51.5k
+r23 dev=1% worst :  51.0k      ->  50.4k
+r1 dev=1% worst  :  51.0k      ->  50.4k
+r2 dev=1% worst  :  51.0k      ->  50.4k
+r3 dev=1% worst  :  51.0k      ->  50.4k
+r4 dev=1% worst  :  150.k      ->  151.k
+r5 dev=1% worst  :  51.0k      ->  50.4k
+
+*DC Monte Carlo run 27 of 50 (m27)
+c2 dev=20% worst :  100.n      ->  120.n
+c3 dev=20% worst :  100.n      ->  80.0n
+c4 dev=20% worst :  100.n      ->  120.n
+r6 dev=1% worst  :  51.0k      ->  51.5k
+r8 dev=1% worst  :  51.0k      ->  50.4k
+r23 dev=1% worst :  51.0k      ->  50.4k
+r1 dev=1% worst  :  51.0k      ->  50.4k
+r2 dev=1% worst  :  51.0k      ->  50.4k
+r3 dev=1% worst  :  51.0k      ->  50.4k
+r4 dev=1% worst  :  150.k      ->  151.k
+r5 dev=1% worst  :  51.0k      ->  50.4k
+
+*DC Monte Carlo run 28 of 50 (m28)
+c2 dev=20% worst :  100.n      ->  80.0n
+c3 dev=20% worst :  100.n      ->  120.n
+c4 dev=20% worst :  100.n      ->  120.n
+r6 dev=1% worst  :  51.0k      ->  50.4k
+r8 dev=1% worst  :  51.0k      ->  51.5k
+r23 dev=1% worst :  51.0k      ->  50.4k
+r1 dev=1% worst  :  51.0k      ->  50.4k
+r2 dev=1% worst  :  51.0k      ->  50.4k
+r3 dev=1% worst  :  51.0k      ->  50.4k
+r4 dev=1% worst  :  150.k      ->  148.k
+r5 dev=1% worst  :  51.0k      ->  50.4k
+
+*DC Monte Carlo run 29 of 50 (m29)
+c2 dev=20% worst :  100.n      ->  120.n
+c3 dev=20% worst :  100.n      ->  120.n
+c4 dev=20% worst :  100.n      ->  120.n
+r6 dev=1% worst  :  51.0k      ->  51.5k
+r8 dev=1% worst  :  51.0k      ->  51.5k
+r23 dev=1% worst :  51.0k      ->  50.4k
+r1 dev=1% worst  :  51.0k      ->  51.5k
+r2 dev=1% worst  :  51.0k      ->  51.5k
+r3 dev=1% worst  :  51.0k      ->  50.4k
+r4 dev=1% worst  :  150.k      ->  151.k
+r5 dev=1% worst  :  51.0k      ->  51.5k
+
+*DC Monte Carlo run 30 of 50 (m30)
+c2 dev=20% worst :  100.n      ->  120.n
+c3 dev=20% worst :  100.n      ->  120.n
+c4 dev=20% worst :  100.n      ->  80.0n
+r6 dev=1% worst  :  51.0k      ->  51.5k
+r8 dev=1% worst  :  51.0k      ->  51.5k
+r23 dev=1% worst :  51.0k      ->  51.5k
+r1 dev=1% worst  :  51.0k      ->  50.4k
+r2 dev=1% worst  :  51.0k      ->  50.4k
+r3 dev=1% worst  :  51.0k      ->  51.5k
+r4 dev=1% worst  :  150.k      ->  148.k
+r5 dev=1% worst  :  51.0k      ->  50.4k
+
+*DC Monte Carlo run 31 of 50 (m31)
+c2 dev=20% worst :  100.n      ->  120.n
+c3 dev=20% worst :  100.n      ->  120.n
+c4 dev=20% worst :  100.n      ->  120.n
+r6 dev=1% worst  :  51.0k      ->  50.4k
+r8 dev=1% worst  :  51.0k      ->  50.4k
+r23 dev=1% worst :  51.0k      ->  51.5k
+r1 dev=1% worst  :  51.0k      ->  51.5k
+r2 dev=1% worst  :  51.0k      ->  51.5k
+r3 dev=1% worst  :  51.0k      ->  51.5k
+r4 dev=1% worst  :  150.k      ->  151.k
+r5 dev=1% worst  :  51.0k      ->  51.5k
+
+*DC Monte Carlo run 32 of 50 (m32)
+c2 dev=20% worst :  100.n      ->  120.n
+c3 dev=20% worst :  100.n      ->  120.n
+c4 dev=20% worst :  100.n      ->  80.0n
+r6 dev=1% worst  :  51.0k      ->  50.4k
+r8 dev=1% worst  :  51.0k      ->  51.5k
+r23 dev=1% worst :  51.0k      ->  51.5k
+r1 dev=1% worst  :  51.0k      ->  50.4k
+r2 dev=1% worst  :  51.0k      ->  51.5k
+r3 dev=1% worst  :  51.0k      ->  51.5k
+r4 dev=1% worst  :  150.k      ->  151.k
+r5 dev=1% worst  :  51.0k      ->  50.4k
+
+*DC Monte Carlo run 33 of 50 (m33)
+c2 dev=20% worst :  100.n      ->  120.n
+c3 dev=20% worst :  100.n      ->  120.n
+c4 dev=20% worst :  100.n      ->  80.0n
+r6 dev=1% worst  :  51.0k      ->  51.5k
+r8 dev=1% worst  :  51.0k      ->  51.5k
+r23 dev=1% worst :  51.0k      ->  51.5k
+r1 dev=1% worst  :  51.0k      ->  51.5k
+r2 dev=1% worst  :  51.0k      ->  50.4k
+r3 dev=1% worst  :  51.0k      ->  51.5k
+r4 dev=1% worst  :  150.k      ->  148.k
+r5 dev=1% worst  :  51.0k      ->  51.5k
+
+*DC Monte Carlo run 34 of 50 (m34)
+c2 dev=20% worst :  100.n      ->  120.n
+c3 dev=20% worst :  100.n      ->  80.0n
+c4 dev=20% worst :  100.n      ->  80.0n
+r6 dev=1% worst  :  51.0k      ->  50.4k
+r8 dev=1% worst  :  51.0k      ->  51.5k
+r23 dev=1% worst :  51.0k      ->  51.5k
+r1 dev=1% worst  :  51.0k      ->  51.5k
+r2 dev=1% worst  :  51.0k      ->  50.4k
+r3 dev=1% worst  :  51.0k      ->  50.4k
+r4 dev=1% worst  :  150.k      ->  148.k
+r5 dev=1% worst  :  51.0k      ->  51.5k
+
+*DC Monte Carlo run 35 of 50 (m35)
+c2 dev=20% worst :  100.n      ->  120.n
+c3 dev=20% worst :  100.n      ->  80.0n
+c4 dev=20% worst :  100.n      ->  120.n
+r6 dev=1% worst  :  51.0k      ->  50.4k
+r8 dev=1% worst  :  51.0k      ->  51.5k
+r23 dev=1% worst :  51.0k      ->  50.4k
+r1 dev=1% worst  :  51.0k      ->  50.4k
+r2 dev=1% worst  :  51.0k      ->  50.4k
+r3 dev=1% worst  :  51.0k      ->  51.5k
+r4 dev=1% worst  :  150.k      ->  148.k
+r5 dev=1% worst  :  51.0k      ->  51.5k
+
+*DC Monte Carlo run 36 of 50 (m36)
+c2 dev=20% worst :  100.n      ->  80.0n
+c3 dev=20% worst :  100.n      ->  80.0n
+c4 dev=20% worst :  100.n      ->  80.0n
+r6 dev=1% worst  :  51.0k      ->  50.4k
+r8 dev=1% worst  :  51.0k      ->  50.4k
+r23 dev=1% worst :  51.0k      ->  51.5k
+r1 dev=1% worst  :  51.0k      ->  50.4k
+r2 dev=1% worst  :  51.0k      ->  51.5k
+r3 dev=1% worst  :  51.0k      ->  51.5k
+r4 dev=1% worst  :  150.k      ->  148.k
+r5 dev=1% worst  :  51.0k      ->  51.5k
+
+*DC Monte Carlo run 37 of 50 (m37)
+c2 dev=20% worst :  100.n      ->  120.n
+c3 dev=20% worst :  100.n      ->  80.0n
+c4 dev=20% worst :  100.n      ->  120.n
+r6 dev=1% worst  :  51.0k      ->  51.5k
+r8 dev=1% worst  :  51.0k      ->  50.4k
+r23 dev=1% worst :  51.0k      ->  51.5k
+r1 dev=1% worst  :  51.0k      ->  50.4k
+r2 dev=1% worst  :  51.0k      ->  50.4k
+r3 dev=1% worst  :  51.0k      ->  50.4k
+r4 dev=1% worst  :  150.k      ->  151.k
+r5 dev=1% worst  :  51.0k      ->  51.5k
+
+*DC Monte Carlo run 38 of 50 (m38)
+c2 dev=20% worst :  100.n      ->  80.0n
+c3 dev=20% worst :  100.n      ->  80.0n
+c4 dev=20% worst :  100.n      ->  80.0n
+r6 dev=1% worst  :  51.0k      ->  51.5k
+r8 dev=1% worst  :  51.0k      ->  50.4k
+r23 dev=1% worst :  51.0k      ->  51.5k
+r1 dev=1% worst  :  51.0k      ->  51.5k
+r2 dev=1% worst  :  51.0k      ->  50.4k
+r3 dev=1% worst  :  51.0k      ->  50.4k
+r4 dev=1% worst  :  150.k      ->  148.k
+r5 dev=1% worst  :  51.0k      ->  51.5k
+
+*DC Monte Carlo run 39 of 50 (m39)
+c2 dev=20% worst :  100.n      ->  80.0n
+c3 dev=20% worst :  100.n      ->  120.n
+c4 dev=20% worst :  100.n      ->  80.0n
+r6 dev=1% worst  :  51.0k      ->  50.4k
+r8 dev=1% worst  :  51.0k      ->  51.5k
+r23 dev=1% worst :  51.0k      ->  51.5k
+r1 dev=1% worst  :  51.0k      ->  51.5k
+r2 dev=1% worst  :  51.0k      ->  50.4k
+r3 dev=1% worst  :  51.0k      ->  50.4k
+r4 dev=1% worst  :  150.k      ->  151.k
+r5 dev=1% worst  :  51.0k      ->  50.4k
+
+*DC Monte Carlo run 40 of 50 (m40)
+c2 dev=20% worst :  100.n      ->  120.n
+c3 dev=20% worst :  100.n      ->  80.0n
+c4 dev=20% worst :  100.n      ->  80.0n
+r6 dev=1% worst  :  51.0k      ->  50.4k
+r8 dev=1% worst  :  51.0k      ->  50.4k
+r23 dev=1% worst :  51.0k      ->  50.4k
+r1 dev=1% worst  :  51.0k      ->  51.5k
+r2 dev=1% worst  :  51.0k      ->  50.4k
+r3 dev=1% worst  :  51.0k      ->  50.4k
+r4 dev=1% worst  :  150.k      ->  151.k
+r5 dev=1% worst  :  51.0k      ->  51.5k
+
+*DC Monte Carlo run 41 of 50 (m41)
+c2 dev=20% worst :  100.n      ->  80.0n
+c3 dev=20% worst :  100.n      ->  120.n
+c4 dev=20% worst :  100.n      ->  80.0n
+r6 dev=1% worst  :  51.0k      ->  51.5k
+r8 dev=1% worst  :  51.0k      ->  50.4k
+r23 dev=1% worst :  51.0k      ->  50.4k
+r1 dev=1% worst  :  51.0k      ->  51.5k
+r2 dev=1% worst  :  51.0k      ->  51.5k
+r3 dev=1% worst  :  51.0k      ->  50.4k
+r4 dev=1% worst  :  150.k      ->  151.k
+r5 dev=1% worst  :  51.0k      ->  51.5k
+
+*DC Monte Carlo run 42 of 50 (m42)
+c2 dev=20% worst :  100.n      ->  80.0n
+c3 dev=20% worst :  100.n      ->  120.n
+c4 dev=20% worst :  100.n      ->  80.0n
+r6 dev=1% worst  :  51.0k      ->  50.4k
+r8 dev=1% worst  :  51.0k      ->  51.5k
+r23 dev=1% worst :  51.0k      ->  50.4k
+r1 dev=1% worst  :  51.0k      ->  50.4k
+r2 dev=1% worst  :  51.0k      ->  50.4k
+r3 dev=1% worst  :  51.0k      ->  51.5k
+r4 dev=1% worst  :  150.k      ->  151.k
+r5 dev=1% worst  :  51.0k      ->  51.5k
+
+*DC Monte Carlo run 43 of 50 (m43)
+c2 dev=20% worst :  100.n      ->  120.n
+c3 dev=20% worst :  100.n      ->  80.0n
+c4 dev=20% worst :  100.n      ->  80.0n
+r6 dev=1% worst  :  51.0k      ->  51.5k
+r8 dev=1% worst  :  51.0k      ->  51.5k
+r23 dev=1% worst :  51.0k      ->  50.4k
+r1 dev=1% worst  :  51.0k      ->  50.4k
+r2 dev=1% worst  :  51.0k      ->  51.5k
+r3 dev=1% worst  :  51.0k      ->  50.4k
+r4 dev=1% worst  :  150.k      ->  148.k
+r5 dev=1% worst  :  51.0k      ->  50.4k
+
+*DC Monte Carlo run 44 of 50 (m44)
+c2 dev=20% worst :  100.n      ->  120.n
+c3 dev=20% worst :  100.n      ->  80.0n
+c4 dev=20% worst :  100.n      ->  80.0n
+r6 dev=1% worst  :  51.0k      ->  51.5k
+r8 dev=1% worst  :  51.0k      ->  51.5k
+r23 dev=1% worst :  51.0k      ->  50.4k
+r1 dev=1% worst  :  51.0k      ->  51.5k
+r2 dev=1% worst  :  51.0k      ->  51.5k
+r3 dev=1% worst  :  51.0k      ->  51.5k
+r4 dev=1% worst  :  150.k      ->  148.k
+r5 dev=1% worst  :  51.0k      ->  50.4k
+
+*DC Monte Carlo run 45 of 50 (m45)
+c2 dev=20% worst :  100.n      ->  80.0n
+c3 dev=20% worst :  100.n      ->  120.n
+c4 dev=20% worst :  100.n      ->  120.n
+r6 dev=1% worst  :  51.0k      ->  51.5k
+r8 dev=1% worst  :  51.0k      ->  50.4k
+r23 dev=1% worst :  51.0k      ->  50.4k
+r1 dev=1% worst  :  51.0k      ->  51.5k
+r2 dev=1% worst  :  51.0k      ->  51.5k
+r3 dev=1% worst  :  51.0k      ->  50.4k
+r4 dev=1% worst  :  150.k      ->  148.k
+r5 dev=1% worst  :  51.0k      ->  50.4k
+
+*DC Monte Carlo run 46 of 50 (m46)
+c2 dev=20% worst :  100.n      ->  80.0n
+c3 dev=20% worst :  100.n      ->  80.0n
+c4 dev=20% worst :  100.n      ->  80.0n
+r6 dev=1% worst  :  51.0k      ->  51.5k
+r8 dev=1% worst  :  51.0k      ->  51.5k
+r23 dev=1% worst :  51.0k      ->  51.5k
+r1 dev=1% worst  :  51.0k      ->  51.5k
+r2 dev=1% worst  :  51.0k      ->  50.4k
+r3 dev=1% worst  :  51.0k      ->  50.4k
+r4 dev=1% worst  :  150.k      ->  151.k
+r5 dev=1% worst  :  51.0k      ->  50.4k
+
+*DC Monte Carlo run 47 of 50 (m47)
+c2 dev=20% worst :  100.n      ->  80.0n
+c3 dev=20% worst :  100.n      ->  80.0n
+c4 dev=20% worst :  100.n      ->  80.0n
+r6 dev=1% worst  :  51.0k      ->  51.5k
+r8 dev=1% worst  :  51.0k      ->  51.5k
+r23 dev=1% worst :  51.0k      ->  51.5k
+r1 dev=1% worst  :  51.0k      ->  50.4k
+r2 dev=1% worst  :  51.0k      ->  51.5k
+r3 dev=1% worst  :  51.0k      ->  50.4k
+r4 dev=1% worst  :  150.k      ->  148.k
+r5 dev=1% worst  :  51.0k      ->  51.5k
+
+*DC Monte Carlo run 48 of 50 (m48)
+c2 dev=20% worst :  100.n      ->  80.0n
+c3 dev=20% worst :  100.n      ->  80.0n
+c4 dev=20% worst :  100.n      ->  80.0n
+r6 dev=1% worst  :  51.0k      ->  50.4k
+r8 dev=1% worst  :  51.0k      ->  50.4k
+r23 dev=1% worst :  51.0k      ->  50.4k
+r1 dev=1% worst  :  51.0k      ->  51.5k
+r2 dev=1% worst  :  51.0k      ->  50.4k
+r3 dev=1% worst  :  51.0k      ->  51.5k
+r4 dev=1% worst  :  150.k      ->  148.k
+r5 dev=1% worst  :  51.0k      ->  50.4k
+
+*DC Monte Carlo run 49 of 50 (m49)
+c2 dev=20% worst :  100.n      ->  120.n
+c3 dev=20% worst :  100.n      ->  80.0n
+c4 dev=20% worst :  100.n      ->  80.0n
+r6 dev=1% worst  :  51.0k      ->  50.4k
+r8 dev=1% worst  :  51.0k      ->  51.5k
+r23 dev=1% worst :  51.0k      ->  51.5k
+r1 dev=1% worst  :  51.0k      ->  51.5k
+r2 dev=1% worst  :  51.0k      ->  50.4k
+r3 dev=1% worst  :  51.0k      ->  50.4k
+r4 dev=1% worst  :  150.k      ->  151.k
+r5 dev=1% worst  :  51.0k      ->  50.4k
+
+*DC Monte Carlo run 50 of 50 (m50)
+c2 dev=20% worst :  100.n      ->  120.n
+c3 dev=20% worst :  100.n      ->  80.0n
+c4 dev=20% worst :  100.n      ->  80.0n
+r6 dev=1% worst  :  51.0k      ->  51.5k
+r8 dev=1% worst  :  51.0k      ->  50.4k
+r23 dev=1% worst :  51.0k      ->  50.4k
+r1 dev=1% worst  :  51.0k      ->  50.4k
+r2 dev=1% worst  :  51.0k      ->  51.5k
+r3 dev=1% worst  :  51.0k      ->  51.5k
+r4 dev=1% worst  :  150.k      ->  148.k
+r5 dev=1% worst  :  51.0k      ->  51.5k
+
+
